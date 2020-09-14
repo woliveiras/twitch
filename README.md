@@ -13,3 +13,7 @@ Conteúdo sobre programação básico, carreira, frontend, performance web e mui
 - **em dias aleatórios:** live code
 
 ![Agenda das lives](./capa-fortalece-a-firma.png)
+
+## Código de conduta
+
+Código de conduta para participar do grupo exclusivo para subs no WhatsApp: [woliveiras/codigo-de-conduta](https://github.com/woliveiras/codigo-de-conduta)
