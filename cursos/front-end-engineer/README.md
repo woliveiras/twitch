@@ -23,6 +23,7 @@
 	- Introdução a HTML, CSS e JavaScript
 	- Entendendo o protocólo HTTP
 	- Server e client side
+	- [conceitos] estilos padrão do navegador, reset CSS
 - [artigo] versionamento de código
 	- Introdução ao versionamento de código
 	- Instalação e configuração do Git
@@ -34,6 +35,13 @@
 - [artigo] Front-end desenha interfaces?
 - [video] Plataformas para construir nosso portfólio
 - [video] GitHub Pages
+- [video/projeto] Construindo o site de uma pizzaria
+	- página: home
+	- página: sobre
+	- página: menu
+	- página: entrar em contato
+	- [conceitos] navegação, posicionamento, listas, formulários, tabelas
+	- [ferramentas] Git, GitHub, Netlify
 
 ## <a name='Aprendendoprogramaoparafront-endweb'></a>Aprendendo programação para front-end web
 ## <a name='Desenvolvendoaplicaesclient-sidecompletas'></a>Desenvolvendo aplicações client-side completas
