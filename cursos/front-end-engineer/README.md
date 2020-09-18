@@ -1,6 +1,8 @@
 # Curso front-end engineer
 
-> um curso para quem nunca programou aprender e entrar no mercado de desenvolvimento web como frontend engineer
+> um curso para quem nunca programou aprender desenvolvimento web
+
+Curso ministrado nas terças, quartas e quintas as 20h na [Twitch.tv/uillaz](https://www.twitch.tv/uillaz).
 
 ## Módulos
 
