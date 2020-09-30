@@ -2,7 +2,11 @@
 
 > um curso para quem nunca programou aprender desenvolvimento web
 
-Curso ministrado nas terças, quartas e quintas as 20h na [Twitch.tv/uillaz](https://www.twitch.tv/uillaz).
+Curso ministrado nas terças e quintas as 20h na [Twitch.tv/uillaz](https://www.twitch.tv/uillaz).
+
+**Início do curso:** 01/10/2020.
+
+Bate papo na Twitch todos os dias a partir das 8:45h / 9:00h até às 10h.
 
 ## Módulos
 
