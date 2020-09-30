@@ -19,8 +19,8 @@ Curso ministrado nas terças, quartas e quintas as 20h na [Twitch.tv/uillaz](htt
 
 ## <a name='Conhecendoodesenvolvimentoweb'></a>Conhecendo o desenvolvimento web
 
-- [artigo] Duvidas de toda pessoa desenvolvedora front-end iniciante
-- [artigo] O que é web?
+- [artigo] [Duvidas de toda pessoa desenvolvedora front-end iniciante](https://woliveiras.com.br/posts/duvidas-frontend-iniciante/)
+- [artigo] [Qual a diferença entre página web, site, servidor web e mecanismo de busca?](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
 - [video] Criando nossa primeira página web
 	- Introdução a HTML, CSS e JavaScript
 	- Entendendo o protocólo HTTP
