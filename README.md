@@ -1,14 +1,16 @@
 # Twitch/uillaz
 
+> Ensinando desenvolvimento de software de maneira acessível e inclusiva
+
 Se você ainda não me acompanha na Twitch, vem logo: [Uillaz](https://www.twitch.tv/uillaz)
 
-Conteúdo sobre programação básico, carreira, frontend, performance web e muito mais!
+Conteúdo sobre programação, carreira, frontend, performance web e muito mais!
 
 ---
 
 ## AGENDA
 
-- **todos os dias, das 8 às 10:** bate papo aberto no chat
+- **todos os dias, das 9 às 10:** bate papo aberto no chat da Twitch ouvindo musiquinha pra animar o nosso dia
 - **toda quinta, às 20h:** live [tópico definido na live ou antes via [Twitter](https://www.twitch.tv/uillaz)]
 - **em dias aleatórios:** live code
 
